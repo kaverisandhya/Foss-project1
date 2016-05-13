@@ -27,7 +27,7 @@ die ( ) {
 }
 
 # OS specific support (must be 'true' or 'false').
-cygwin=true
+cygwin=false
 msys=false
 darwin=false
 case "`uname`" in
