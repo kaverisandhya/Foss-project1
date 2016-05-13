@@ -1,0 +1,183 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent" android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    tools:context="contactmanager.al_quddusislamicapp.Supplication"
+    android:background="#ffe8ffe0">
+
+    <ScrollView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="1.Supplication before sleeping"
+        android:id="@+id/textView"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:background="#fffff8f9"
+        android:focusableInTouchMode="false"
+        android:textColor="#ff080003"
+        android:textSize="25dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text=" =>Bismika Allaahumma &apos;amootu wa &apos;ahyaa.
+      In Your Name , O Allah , I die and I live.
+      Reference: Muslim 4/ 2083."
+        android:id="@+id/textView69"
+        android:textColor="#ff080003"
+        android:layout_below="@+id/textView"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="2.Supplications for when you wake up"
+        android:id="@+id/textView70"
+        android:layout_below="@+id/textView69"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginTop="49dp"
+        android:background="#fffff8f9"
+        android:textSize="25dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="  =>Alhamdu lillaahil-lathee &apos;ahyaanaa ba&apos;da maa &apos;amaatanaa wa&apos;ilayhin-nushoor.
+       Praise is to Allah Who gives us life after He has caused us to die and to Him is the return.
+       Reference: Al-Bukhari, cf. Al-Asqalani, Fathul-Bari 11/113; Muslim 4/2083"
+        android:id="@+id/textView71"
+        android:textColor="#ff080003"
+        android:layout_below="@+id/textView70"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="3.Supplications for after Finishing Food"
+        android:id="@+id/textView72"
+        android:layout_below="@+id/textView69"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginTop="49dp"
+        android:background="#fffff8f9"
+        android:textSize="25dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text="  =>Alhamdu lillahil-ladhi 'at'amani hadha, wa razaqanihi, min ghayri hawlin minnee wa la quwwatin.
+            Praise is to Allah Who has given me this food and sustained me with it though I was unable to do it and powerless.
+            Reference: Tirmidhi 3/159, Abu Dawud, and Ibn Majah"
+            android:id="@+id/textView73"
+            android:textColor="#ff080003"
+            android:layout_below="@+id/textView70"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="5.Dua for drinking Milk"
+            android:id="@+id/textView74"
+            android:layout_below="@+id/textView69"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_marginTop="49dp"
+            android:background="#fffff8f9"
+            android:textSize="25dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text="  =>O Allah! add blessings in this milk and give (me) more than this
+            Allah humma baarik lana fihi wa zidna minhu
+            Reference: Tirmidhi,Ibne Maajah ,narrated by Ibne Abbaas(R.A)"
+            android:id="@+id/textView75"
+            android:textColor="#ff080003"
+            android:layout_below="@+id/textView70"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="6.Dua for before performing ablution"
+            android:id="@+id/textView76"
+            android:layout_below="@+id/textView69"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_marginTop="49dp"
+            android:background="#fffff8f9"
+            android:textSize="25dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text="  =>Bismillaah.
+بِسْمِ اللهِ
+Translation:In the Name of Allah.
+References:Abu Dawud, Ibn Majah, and Ahmad. See also Al-Albani, 'Irwa'ul-Ghain 1/122."
+            android:id="@+id/textView77"
+            android:textColor="#ff080003"
+            android:layout_below="@+id/textView70"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="7.What to say upon completing ablution"
+            android:id="@+id/textView78"
+            android:layout_below="@+id/textView69"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_marginTop="49dp"
+            android:background="#fffff8f9"
+            android:textSize="25dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text="  =>'Ash-hadu 'an laa 'ilaaha 'illallaahu wahdahu laa shareeka lahu wa 'ash-hadu 'anna Muhammadan 'abduhu wa Rasooluhu.
+            Translation:I bear witness that none has the right to be worshipped but Allah alone, Who has no partner; and I bear witness that Muhammad is His slave and His Messenger.
+أَشْهَدُ أَنْ لَا إِلَهَ إلَّا اللهُ وَحْدَهُ لَا شَرِيكَ لَهُ، وَأَشْهَدُ أَنَّ مُحَمَّداً عَبْدُهُ وَرَسُولُهُ
+References: Muslim 1/209."
+            android:id="@+id/textView79"
+            android:textColor="#ff080003"
+            android:layout_below="@+id/textView79"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true" />
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="More Supplications"
+            android:id="@+id/button14"
+            android:layout_alignParentBottom="true"
+            android:layout_centerHorizontal="true" />
+    </LinearLayout>
+    </ScrollView>
+</RelativeLayout>

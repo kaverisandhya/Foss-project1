@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="contactmanager.al_quddusislamicapp" >
+<uses-permission android:name="android.permission.INTERNET"/>
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name=".Bismillah"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".SelectOption"
+            android:label="@string/title_activity_select_option"
+            android:parentActivityName=".Bismillah">
+            <intent-filter>
+                <action android:name="contactmanager.al_quddusislamicapp.SelectOption" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".About_App"
+            android:label="about_app"
+            android:parentActivityName=".SelectOption">
+            <intent-filter>
+                <action android:name="contactmanager.al_quddusislamicapp.About_App" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".Forty_Rewarding_Good_Deeds"
+            android:label="@string/title_activity_forty__rewarding__good__deeds"
+            android:parentActivityName=".SelectOption">
+            <intent-filter>
+                <action android:name="contactmanager.al_quddusislamicapp.Forty_Rewarding_Good_Deeds" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".Virtues_of_prayer"
+            android:label="@string/title_activity_virtues_of_prayer"
+            android:parentActivityName=".SelectOption">
+            <intent-filter>
+                <action android:name="contactmanager.al_quddusislamicapp.Virtues_of_prayer" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".Supplication"
+            android:label="@string/title_activity_supplication"
+            android:parentActivityName=".SelectOption">
+            <intent-filter>
+                <action android:name="contactmanager.al_quddusislamicapp.Supplication" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".More_queries"
+            android:label="@string/title_activity_more_queries"
+            android:parentActivityName=".SelectOption">
+            <intent-filter>
+                <action android:name="contactmanager.al_quddusislamicapp.More_queries" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

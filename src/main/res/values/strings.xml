@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Al-Quddus Islamic App</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_select_option">SelectOption</string>
+    <string name="title_activity_posters">Posters</string>
+    <string name="title_activity_main">MainActivity</string>
+
+
+    <string name="title_section1">Section 1</string>
+    <string name="title_section2">Section 2</string>
+    <string name="title_section3">Section 3</string>
+    <string name="title_activity_forty__rewarding__good__deeds">Forty_Rewarding_Good_Deeds</string>
+    <string name="title_activity_virtues_of_prayer">Virtues_of_prayer</string>
+    <string name="title_activity_supplication">Supplication</string>
+    <string name="title_activity_more_queries">More_queries</string>
+</resources>

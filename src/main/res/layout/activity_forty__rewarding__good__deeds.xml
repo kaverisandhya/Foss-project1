@@ -1,0 +1,530 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent" android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    tools:context="contactmanager.al_quddusislamicapp.Forty_Rewarding_Good_Deeds"
+    android:background="@color/background_floating_material_dark">
+
+    <ScrollView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="   1. Earn a thousand good deeds in Minutes Prophet Muhammad (Peace be upon him) said: &quot;Is anyone of you incapable of earning one thousand Hasanah (rewards) a day?&quot; Someone from the gathering asked, &quot;How can anyone of us earn a thousand Hasanah?&quot; Prophet Muhammad (Peace be upon him) said: &quot;Glorify Allah a hundred times by just saying “Subhanallah” and a Good deeds will be written for you, or a thousand sins will be wiped away.” (Muslim 4:2073)"
+        android:id="@+id/textView5"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:textColor="#ff000000" />
+      <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="  2. One of the Rare Treasures of Paradise Hadhrat Abu Dharr [Ra] narrated that Rasulallah [Saw] said: “Should I not tell you of one treasure of the unlimited treasures of Paradise?” I replied spontaneously “Oh Rasulallah (Peace be upon him) that would be an honour indeed!” Rasulallah (Saw) said: “That rare treasure is LA HAWLA WA LA QUWWATA ILLA BILLAH.” (“The strength to do good and to refrain from evil comes from the grace and mercy of Allah!”) -(Ibn Majah) Hadrat Abu Dharr al-Ghifari (may Allah be pleased with him) narrates that &quot;my beloved friend” (the Holy Prophet Muhammad, may Allah&apos;s blessings and peace be upon him) has enjoined five things upon me. He has commanded me to love and be close to the poor and the downtrodden, and he has commanded me to look at those in the world who are of lower rank than me, and not at those who are of higher rank, and he has commanded me to be kind to the kinsman and to preserve and keep intact the bond of kinship, and he has commanded me not to ask for anything from anyone as a favour and he has commanded me to speak the truth at all times though it may be bitter for others, and he has commanded me to care nothing for the rebuke of those who revile and villify in the path of Allah, and he has commanded me to recite much the Kalima of: Laa Hawla wa laa Qawwuta Illaa Billah (there is no power or strength but in Allah) because all these things are from the treasure-house (of Allah) which is under the ninth heaven. (Ahmad)"
+        android:id="@+id/textView6"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+          android:textColor="#ffff5e3c" />
+        <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="  3. A Date Palm planted in Paradise for the one who Recites this Hadhrat Jaa&apos;bir [Ra] narrated that Rasulallah(Peace be upon him) said: “For the person who recites SUB-HAN&apos;ALLAH HIL AZEEM WA BI-HAM&apos;DIHI, [Pure and perfect is Allah in his glory and praise], - A date palm will be planted for him in Paradise” (Tirmidhi) Another Narration says:"
+        android:id="@+id/textView7"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+            android:textColor="#ff000000"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text="  4. Forgiveness for Sins Even Though they are like the Foam of the Sea: Narrated Abu Huraira: Allah’s Apostle said, “Whoever says, ‘Subhan Allaahi Wa bihamdihi, {Allah is free from imperfection and His is the praise}. One hundred times a day, will be forgiven all his sins even if they were as much as the foam of the sea. (Bukhari, Book #75, Hadith #414)"
+            android:id="@+id/textView8"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:textColor="#ffff5e3c"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text="  5. We Can Earn Over a BILLION Rewards in Just a Few Seconds! Narrated ‘Ubaadah that the Messenger of Allah said, “Whoever seeks forgiveness for the believing men and believing women, Allah will write for him a good deed for each believing man and believing woman.” (Tabarrani)"
+        android:id="@+id/textView9"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+            android:textColor="#ff000000"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text="  6. That Which Shall Have no Equal on the Day of Resurrection: Narrated Abu Huraira:Allah’s Apostle said, ”Whoever says one hundred times in a day: “Laa ilaaha illallaah wahdahuu laa shareeka lahu, lahu-l-mulk wa lahu-l-hamd wa huwa ‘alaa kulli shai’in qadeer,” (“None has the right to be worshipped but Allah, the Alone Who has no partners, to Him belongs Dominion and to Him belong all the Praises, and He has power over all things (i.e. Omnipotent)”,} he will get the same reward as given for manumitting ten slaves; and one hundred good deeds will be written in his accounts, and one hundred sins will be deducted from his accounts, and it (his saying) will be a shield for him from Satan on that day till night, and nobody will be able to do a better deed except the one who does more than he.” (Bukhari, Book #75, Hadith #412)"
+            android:id="@+id/textView10"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+            android:textColor="#ffff5e3c"/>
+         <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="  7. Four Phrases that are Heavier on the Scales than an Entire Morning of Dhikrullah (Remembrance of Allah): The Mother of the Believers, Juwairiyah bint Al-Harith reported that the Prophet came out from my apartment in the morning as I was busy in performing the dawn prayer. He came back in the forenoon and found me sitting there. The Prophet said, ”Are you still in the same position as I left you.” I replied in the affirmative. Thereupon the Prophet said, “I recited four phrases three times after I had left you. If these are to be weighed against all you have recited since morning, these will be heavier. These are: Subhan-Allah Wa bihamdihi, ‘adada khalqihi, wa rida-a nafsihi, wa zinatah ‘arshihi, wa midada kalimatihi (Allah is free from imperfection and I begin with His praise, as many times as the number of His creatures, in accordance with His Good Pleasure, equal to the ink that may be used in recording the words (for His Praise).” (Muslim)"
+             android:id="@+id/textView11"
+             android:layout_alignParentLeft="true"
+             android:layout_alignParentStart="true"
+             android:textColor="#ff000000"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text="8.  A Phrase that Comes with Rewards in the MILLIONS: On the authority of Abdullah ibn ‘Umar that the Prophet said: “Whoever enters a market and says: ‘Laa ilaaha ill Allah Wahdahu laa shareeka lah, lahul Mulku Wa lahul Hamdu yuhyi Wa yumeetu Wa huwa Hayyun laa yamoot, bi yadihil khayr, wahuwa ‘alaa kulli shay’ in qadeer’ {There is nothing worthy of worship but Allah, He is alone without partner, to Him belongs the dominion and the praise, he causes life and death and He is the Living One and will never die. In His Hand is all good, and He is over all things capable.) Allah will write for him a million good deeds erase a million of his bad deeds and build for him a house in Jannah.” And in another narration, instead of mentioning that Allah will build a house in Jannah, it states, “and he will be raised one million levels.” (Tirmidhi)."
+            android:id="@+id/textView12"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:textColor="#ffff5e3c"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="  9. Reciting Tasbeeh, (Subhanballah), Tahmeed (Alhamdolillah) and Takbeer Allahu Akbar), and enjoining what is Good and forbidding what is evil, and praying Salaatul Duha (Breakfast prayer)., It was narrated from Abu Dharr that the Prophet (peace and blessings of Allaah be upon him) said: “For every bone of the son of Adam a charity must be given each day. Every Tasbeehah (saying Subhaan Allah -Glory be to Allah) is a charity, every Tahmeedah (saying Al-hamdu Lillaah -praise be to Allah) is a charity, every tahleelah (saying Laa ilaaha ill-Allah -There is no god but Allah) is a charity, every takbeerah (saying Allaahu akbar -Allah is Most Great) is a charity, enjoining what is good is a charity, forbidding what is evil is a charity, and two Rak’ahs (Nafil) offered in the mid-morning (Duha) is sufficient.” (Muslim, 720)"
+            android:id="@+id/textView13"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:textColor="#ff000000"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text="  10. The Virtues of Reciting Tasbih at-I-Fatima A well-known Tradition of the Prophet (Peace be upon him) has it that the Prophet&apos;s beloved daughter (and Hazrat Ali&apos;s (Ra) wife), Hazrat Fatima (Ra), used to perform all the domestic duties with her own hands. She had even to draw water from the well and to carry it home and to grind the corn in the millstone. One day she begged the holy Prophet (Peace be upon him) to provide her with a domestic servant upon which the Prophet (Peace be upon him) observed, &quot;I will tell you of something that will serve you better than a domestic servant. Recite Subhaa-nallaah 33 times, Alhamdu lillaah 33 times, and Allahu Akbar 34 times after each Salaah and on retiring to bed. This will be of greater value to you than a servant.&quot; Another Tradition says, &quot;Whoever will recite after each Salaah 33 times Subhaa-nallaah, 33 times Alhamdu lillaah, and 34 times Allahu Akbar, and, at the end of it, the Kalima of ‘Laa ilaaha illal laahu wahdahu laa sharika lahu lahul mulku wa-lahul hamdu wa huwa alaa kulli shay-in qadeer’. (There is no Allah but one Allah. He is alone. No partner hath. He Him belongs sovereignty and unto Him belongs Praise and He is all-Powerful) all his sins will be forgiven even if they be as profuse as the foam of the sea.&quot;"
+            android:id="@+id/textView14"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:textColor="#ffff5e3c"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="  11. How to Erase 2500 Sins in 5 minutes! Abd-Allaah ibn ‘Amr (may Allah be pleased with him) who said: “The Messenger of Allah (peace be upon him) said: ‘There are two qualities, no Muslim man acquires them but he will enter Paradise, and they are simple and easy. He should glorify Allah (say Subhaan Allah) ten times immediately after each prayer, and praise Him (say Al-hamdu Lillaah) ten times and magnify Him (say Allaahu Akbar) ten times.’ I saw the Messenger of Allah (peace and blessings of Allah be upon him) counting this on his fingers. He said: ‘That makes one hundred and fifty on the tongue and one thousand five hundred (hasanaat) in the scales. [Translator’s note: each of three phrases repeated ten times makes thirty; multiplied by the number of daily prayers, which is five, makes one hundred and fifty. Each of these good deeds of the tongue will be rewarded with ten hasanaat which will be added to the total of good deeds to be weighed in the balance or scales on the Day of Judgement]."
+            android:id="@+id/textView15"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:textColor="#ff000000"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text="  12. Glorifying Allah 100 times when one goes to bed When you go to bed, glorify Him and praise Him and magnify Him One hundred times: that will be one hundred on the tongue and a thousand in the scales. Who among you does 2,500 bad deeds in one day?’ They said: ‘How could we not count (our sins)?’ He said: ‘The Shaytaan comes to any one of you whilst he is praying and says, Remember this, remember that, until he finishes his prayer and does not do (this dhikr), or he comes to him when he is lying down and makes him sleepy, until he falls asleep (without doing this dhikr).’” (Sunan al-Tirmidhi, 3332)."
+            android:id="@+id/textView16"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:textColor="#ffff5e3c"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="  13. Earning a 1000 good deeds and wiping away a 1000 bad deeds in Minutes If a person says &quot;Subhanallah&quot; (glory be to Allah) 100 times, a thousand good deeds are recorded for him and a thousand bad deeds are wiped away. (Muslim)"
+            android:id="@+id/textView17"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:textColor="#ff000000"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text="  14. Jannat becomes obligatory for the one who Recites the following Abu Sa’id (Ra) said that Rasullallah (Peace be upon him) said, “Whoever says: Radeetu billahi rabban, Wa bil-Islaami deenan, Wa bi-Muhammadin rasoolan Jannah becomes obligatory for him (to enter). (Abu-Dawud) - Best said in Morning and Evening with &quot;Nabiyan wa rasoolan&quot;"
+            android:id="@+id/textView18"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:textColor="#ffff5e3c"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="  15. The Virtues of Reciting the First Kalimah The declaration of belief in the oneness of Allah or kalimah tayyibah Laa ilaaha ill-Allah (There is no worthy of worship except Allah) Hadrat Zaid bin ‘Arqam (Allah be pleased with him) narrated that the Messenger of Allah (peace be upon him) said: “Whoever says Laa ilaaha illal-laah…sincerely will enter the Paradise.” It was said: And what is the [sign of] sincerity? He said: “That this kalimah stops him from those things which Allah has forbidden.” (Tabaraani in Awsat-ul-Kabeer) “Do you not see how Allah puts forth the likeness of a good word (kalimah tayyibah)? It is like a good tree, whose root is firmly fixed and whose branches reach to the sky. It brings forth its fruit in all seasons by the command of its Lord. And Allah sets forth parables for men, so that they may take heed. And the likeness of an evil word (kalimah khabeetha- a word of shirk) is like an evil tree, which is uprooted from the face of the earth, and has no stability.” (Qur’an: 24-26)"
+            android:id="@+id/textView19"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:textColor="#ff000000"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text="  16. Virtues of Reciting the Third Kalimah: The word of glorification or the Kalima-e-Tamjeed Subhāna-llāhi, wa-l-hamdu li-llāhi, Wa lā ilāha illā-llāhu, wa-llāhu akbar. Wa lā hawla Wa lā quwwata illā bi-llāhi-l-‘aliyyi-l-‘azīm (Glory be to Allah. And praise be to Allah. And there is no god except Allah. And Allah is the Greatest. And there is no power and no strength except with Allah, the Most High, And Most Great) Ibn Mas’ood (Allah be pleased with him) narrated that the Messenger of Allah (peace be upon him) said: “When I met Prophet Ibrahim (peace be upon him) in the night of Mi’raaj (Night of ascension) he asked me to convey his Salaam to my Ummah and to tell them that the Paradise has a fertile soil and sweet water, and is like a vast field. And its plants are [the words above].” Another version says: “Whoever recites the words above, a tree in Paradise is planted for him for each word he says.” (Virtues of Dhikr; Tirmidhi)"
+            android:id="@+id/textView20"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:textColor="#ffff5e3c"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="  17. Virtues of reading the Fourth Kalimah: The word of Oneness of Allah or the Kalima-e-Tawhid: Lā ilāha illā-llāhu waḥdahu lā sharīka lahu lahu-l-mulku Wa lahu-l-hamdu yuḥyi Wa yumītu Wa huwa ḥayyu-llā yamūtu abadan abada, ḏū-l-jalāli wa-l-ikrām, biyadihi-l-khayr, wa huwa ‘alā kulli Shay’in qadīr. (There is no god except Allah, Who is Alone and has no partners. For Him is the Dominion and for Him is all praise. He gives life and causes death. And He is living and will never ever die. Owner of Majesty and Honour: In His Hands is all goodness. And He has power over all things) Abu Hurairah (Allah be pleased with him) reports that the Messenger of Allah (peace be upon him) said: “A person who recites: Laa ilaaha illal-laahu wahdahu laa shareeka lahu, lahul-mulku wa lahul-hamdu wa huwa ‘alaa kulli shay-in qadeer, a hundred times daily will have reward equal to that of freeing ten slaves and one hundred good deeds will be written for him, and one hundred of his sins will be lifted from him, and for the whole day, he will remain immune from the Shaytaan until the evening, and on the Day of Judgment, no one will exceed him in merit except one who has done [these phrases] more.” (Agreed Upon)"
+            android:id="@+id/textView21"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:textColor="#ff000000"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text="  18. Virtues of Reciting AYAT UL KURSI after Salaat Rasulallah (peace be upon him) said: &quot;Whoever recites Aayatul Kursi after every Fard (Fard Salat). Only death is keeping him/her from entering Jannah. (As soon as he/she dies, will enter Jannah) (Nisa&apos;i, Ibne Habban, Ibnelsani A&apos;n Abi Amatah Albahili Radiallah Anhu) Another Hadith states that Reciting Ayatul Kursi after one Fard (Fard Salat) will cause a person to stay in Allah&apos;s protection until the next Salat. (Tibrani Fil Kabeer)"
+            android:id="@+id/textView22"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:textColor="#ffff5e3c"/>
+            <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="    18.1 Recite Ayatul Kursi for protection Imam Bihaqi (Ra) States: The one who recites Ayatul Kursi before falling asleep, Allah gives protection to his/her home and his/her Family. (Marqat Sharah Mishkaat, Mulla Ali Qaderi, vol. 2 pp. 583) In another Hadith the Jinn and Shaithaan do not come close to the house in which Ayatul Kursi is recited. (Tirmizi Altargheeb Wal Tarheeb Lilmanzari vol.2 pp.631)"
+                android:id="@+id/textView23"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true"
+                android:textColor="#ff000000"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text="    18.2 Recite Ayatul Kursi for blessing in ones food Hadrat A&apos;isha Radiallah Anha states that a person arrived in the court of Rasulallah (peace be upon him)and complained that there is no Barakat (Blessings) in anything in his home. Rasulallah (peace be upon him)said, “You do not recite Ayatul Kursi, whichever Food and Curry you will recite Ayatul Kursi on, Allah will give Blessings on that Food and Curry. (Tafseer Dar Manshoor vol. 1 pp. 323)"
+            android:id="@+id/textView24"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:textColor="#ffff5e3c"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="  19. Visiting a sick Muslim. &quot;There is no Muslim who visits another sick Muslim early in the morning but 70 thousand angels send blessings upon him until evening comes, and if he visits him in the evening, 70 thousand angels send blessings upon him until morning comes, and he will have a garden in paradise.&quot; [Tirmidhi]"
+            android:id="@+id/textView25"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:textColor="#ff000000"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text="  20. Going to the Masjid in order to learn or teach Attending lectures in the Masjid. &quot;Whoever goes to the Masjid not desiring anything except to learn or teach what is good has the reward of a pilgrim who completed his Hajj&quot; (Tabarrani)"
+            android:id="@+id/textView26"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:textColor="#ffff5e3c"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="  21. Praying the 12 Sunnah Rakats each day &quot;Allah will build house in Jannah for whoever is diligent in observing 12 Sunnah rakat (as follows) 4 rakat before and 2 after Dhur, 2 after the Maghrib, 2 after Ishaa, and 2 before Fajr.&quot; (Tirmidhi)"
+            android:id="@+id/textView27"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:textColor="#ff000000"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text="  22. Praying Fajr then worship until after Sunrise (15-20 min after sunrise) &quot;Whoever prays Fajr Salaat in congregation, then sits remembering Allah until sunrise, then prays 2 Rakats of Salat has a complete reward of Hajj and Umrah. (the Prophet (Peace be upon him) repeated the word &apos;complete&apos; 3 times for emphasis) (Tirmidhi)"
+            android:id="@+id/textView28"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:textColor="#ffff5e3c"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="  23. Reward for Reciting each letter of Holy Qur’aan. It was narrated that ‘Abd-Allaah ibn Mas’ood said: The Messenger of Allah (peace and blessings of Allah be upon him) said: “Whoever reads a letter of the Book of Allah will be credited with a good deed, and a good deed gets a tenfold reward. I do not say that Alif-Laam-Meem is a letter, rather alif is a letter, laam is a letter and meem is a letter.” (Narrated by al-Tirmidhi, 2910)"
+            android:id="@+id/textView29"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:textColor="#ff000000"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text="    23.1 Surah Fathiha The Mother of the Qur’an and a cure for every disease Abu Sulaiman says that once a group of Companions were in an expedition (ghazwa) when they happened to come across an epileptic person, who was unconscious. One of the Companions recited Surah Al-Fatiha and blew in his ear. The epileptic person immediately cured. When Sayyidana Muhammad (Peace be upon him) was informed of this, he said: “It (Surah Al-Fathiha) is “The Mother of the Qur’an” (Umm al-Qur’an) and is a cure for every disease.” [This narration has been recorded by Ath-Thua’lbi from Abu Sulaiman, who narrated it from Muawiya bin Saleh (RA), Tafseer Mazhari 1:31]"
+            android:id="@+id/textView30"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:textColor="#ffff5e3c"/>
+            <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="    23.2 Surah Mulk which protects one from the Torment of the Grave It was narrated that Abdullah ibn Mas’ud said: Whoever reads Tabarakallahi Biyadihil Mulk [i.e. Surah al-Mulk] every night, Allah will protect him from the torment of the grave. At the time of the Messenger of Allah (Peace be upon him) we used to call it al-mani’ah (that which protects). In the Book of Allah it is a surah which, whoever recites it every night has done very well. (an-Nasa’i)"
+                android:id="@+id/textView31"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true"
+                android:textColor="#ff000000"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text="    23.3 Surah Zilzalah worth half of the Qur’an Abdullah Ibn ‘Abbas and Anas Ibn Malik (Ra) reported that the Prophet (Peace be upon him) said, ‘Whoever recited Surah Zilzilah (99) would get the reward of reciting half the Qur’an. Whoever recited Surah al Kaafirun (109) would get a reward as if reading a quarter of the Qur’an. Whoever recited Surah al Ikhlas (112)would get a reward as if reading one third of the Qur’an’. (At-Tirmidhi 2818/A)"
+            android:id="@+id/textView32"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:textColor="#ffff5e3c"/>
+                <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="      23.4.1 Surah Iklhas worth a third of the Qur’an Abu Sa’id al-Khudri (RA) reported that the Messenger of Allah (Peace be upon him) said to his Companions, “Are any of you unable to recite a third of the Qur’an in a night?” That was difficult for them and they said, “Which of us is able to do that, Messenger of Allah?” He said, “[The surah] ‘Say: He is Allah, Absolute Oneness, Allah, the Everlasting Sustainer of all’ (112) constitutes a third of the Qur’an.’” (Sahih al-Bukhari 6:61 #534, Riyad as-Salihin by Imam an-Nawawi Ch.183 #1010)"
+                    android:id="@+id/textView33"
+                    android:layout_alignParentLeft="true"
+                    android:layout_alignParentStart="true"
+                    android:textColor="#ff000000"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text="      23.4.2 Surah Iklhas recited 200 times daily gets forgiveness of 50 years of sin Anas ( RA) reported the Prophet (Peace be upon him) as saying, “If anyone recites two hundred times daily, Qul huwallahu ahad the sins of fifty years will be wiped out, unless he is in debt.” (At-Tirmidhi and Darami). The latter version has ‘fifty times’ and he did not mention ‘unless he is in debt’"
+            android:id="@+id/textView34"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:textColor="#ffff5e3c"/>
+            <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="    23.5 Surah al Falaq and An Naas protection from Jinn and evil eye The Prophet (Peace be upon him) used to seek refuge from the jinn as well as from the evil eye until Surah al Falaq and An Naas were revealed. When they were sent down, he utilised them and left other things. [At-Tirmidhi #1984, Riyad as-Salihin by Imam an-Nawawi Ch.183 #1014]"
+                android:id="@+id/textView35"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true"
+                android:textColor="#ff000000"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text="    23.6 Reciting Qur’an whilst in Qiyaam (Standing in prayer) Abd-Allah ibn ‘Amr ibn al-‘Aas (may Allah be pleased with them both), narrated that the Prophet (peace and blessings of Allah be upon him) said: Whoever recites ten aayaat (verses) in qiyaam will not be recorded as one of the forgetful. Whoever recites a hundred aayaat (verses) in qiyaam will be recorded as one of the devout, and whoever prays a thousand aayaat (verses) in qiyaam will be recorded as one of the muqantareen (those who pile up good deeds).” (Reported by Abu Dawood and Ibn Hibbaan. It is a hasan report. Saheeh al-Targheeb, 635)."
+            android:id="@+id/textView36"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:textColor="#ffff5e3c"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="  24. Good manners are the Heaviest on the good deed scales Abu Darda (May Allah be pleased with him) reported: The Prophet (Peace be upon him) said, &quot;Nothing will be heavier on the Day of Resurrection in the Scale of the believer than good manners. Allah hates one who utters foul or coarse language.&apos;&apos;"
+            android:id="@+id/textView37"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:textColor="#ff000000"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text="    25.1 Dhikir of Allah during business or whilst working Dhikir of Allah at intervals while engaged in business is a source of great reward and merit. It is mentioned in hadith that in a place where people are oblivious to dhikir, remembrance of Allah is like being steadfast in jihad, when others are running away. (Targhib, p. 193, vol. 3 ref. Bazar and Tibrani)"
+            android:id="@+id/textView38"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:textColor="#ffff5e3c"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="    25.2 We will regret the Seconds we wasted without remembering Allah Hadhrat Mu&apos;az [RA] narrated Rasulallah (Peace be upon him) said: “The Inhabitants of Paradise will not be grief stricken or sorrowful about anything they did in the life of the world except for the time they spent without being in the remembrance of Allah” (Tabaraani)"
+            android:id="@+id/textView39"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:textColor="#ff000000"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text="   26.1 Do Dhikr of Allah even if its on Comfortable beds Hadhrat Abu Saeed Khudri (Ra) narrates that Rasulullah (Peace be upon him) said: “There are many people reclining on comfortable beds and making the Dhikr of Allah on earth. Allah will grant them elevated ranks (in the Aakhirah).” (Ibn Habbaan) Those indulging in luxury should not abstain from Dhikrullah. They too should be constantly engaged in the remembrance of Allah whilst enjoying the comforts of the bounties which whilst enjoying the comforts of the bounties which Allah has bestowed on them and Allah will give them elevated ranks in the hereafter."
+            android:id="@+id/textView40"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:textColor="#ffff5e3c"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="    26.2 Do so much Dhikr that people think your mad Hadhrat Abu Saeed Khurdi (Ra) also narrates that Rasulullah (Peace be upon him) said: “Engage in the Dhikr of Allah in such abundance that people comment that ‘you are insane’.” (Ahmed, Abu Ya’la, Ibn Habbaan)"
+            android:id="@+id/textView41"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:textColor="#ff000000"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text="    26.3 Remember Allah in the places where people don’t usually remember Allah It is mentioned in hadith that in a place where people are oblivious to dhikir, remembrance of Allah is like being steadfast in jihad, when others are running away. (Targhib, p. 193, vol. 3 ref. Bazar and Tibrani)"
+            android:id="@+id/textView42"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:textColor="#ffff5e3c"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="  27. Always thank Allah for EVERYTHING A’ishah (may Allah be pleased with her) said, I asked, “Messenger of Allah, why do you exert yourself so much while all your sins have been forgiven?” To this he replied, “`A’ishah, should I not be a grateful servant of Allah?” (Muslim). Anas bin Malik (May Allah be pleased with him) reported: The Messenger of Allah (PBUH) said, “Allah is pleased with His slave who says: `Al-hamdu lillah (praise be to Allah)’ when he takes a morsel of food and drinks a draught of water.” (Muslim)"
+            android:id="@+id/textView43"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:textColor="#ff000000"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text="  28. Praising Allah upon Sneezing and its Response Abu Hurairah has related a Prophetic saying: &quot;Allah likes sneezing and dislikes yawning. When anyone of you sneezes he should say “Alhamdulillah” and the hearer thereof should respond “Yar hamakullah” as it is a right of the one who sneezes.&quot; (Sahih Bukhari)."
+            android:id="@+id/textView44"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:textColor="#ffff5e3c"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="  29. Allah will increase us the more thankful we are to him -Allah likes those who are thankful [39:7] -Allah rewards those who are thankful [3:144] -Allah gives more benefits and blessings to those who are thankful [14:7] -Allah protects those from harm who render Him thankfulness [54:34-35]"
+            android:id="@+id/textView45"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:textColor="#ff000000"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text="    29.1 Dua to make in every dua to become of the appreciative Allahumma a-inni ala Zikrika wa shukrika wa husni ibadatik (O Allah! Help me to remember you, to thank you, and to worship you in the best of manners)"
+            android:id="@+id/textView46"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:textColor="#ffff5e3c"/>
+            <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="    29.2 Thanking people The Prophet (Peace be upon him)said, Whoever has a favour done for him and says ‘Jazaak Allahu khayran‘ has done his utmost to thank him. (At-Tirmithi)"
+                android:id="@+id/textView47"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true"
+                android:textColor="#ff000000"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text="  30. Meet Your Brother with a happy face Abu Dharr said, &quot;The Prophet, may Allah bless him and grant him peace, told me, &apos;Do not consider anything correct insignificant, even meeting your brother with a happy face.&quot; (Muslim)"
+            android:id="@+id/textView48"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:textColor="#ffff5e3c"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="  31. Even Moving obstacles from peoples paths is a great reward Abu Hurairra reported that the Prophet, may Allah bless him and grant him peace, said, &quot;A man passed by a fallen branch in the middle of the road and said, &apos;By Allah, I will remove this from the path of the Muslims so that it does not inconvenience them&apos; and he was admitted into the Garden.&quot; (Muslim)"
+            android:id="@+id/textView49"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:textColor="#ff000000"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text="  32. Being kind to Parents is the best deed after Salat It is narrated on the authority of Abdullah bin Mas&apos;ood (may Allah be pleased with him), who observed: &quot;I asked Allah&apos;s Messenger (May peace be upon him) which deed was the best.&quot; He (the Holy Prophet) replied: &apos;The Prayer at its appointed hour.&apos; I (again) asked: &quot;Then what?&quot; He (the Holy Prophet) replied: &apos;Kindness to the parents… (Sahih Muslim: 120)"
+            android:id="@+id/textView50"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:textColor="#ffff5e3c"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="  33. Sending Darud and Peace on the blessed Prophet (Peace be upon him) The Holy Prophet as saying that &quot;One sent by my Sustainer came to me and told me that &apos;Whoever from your ummah sends darud on you once ten good deeds are recorded on his behalf, his ten (minor) sins are pardoned and he is elevated by ten stages&quot; (Sunan Nisai and Musnad Ahmed, AI-targhib li al Mundhari, P.157 volume 3) And Anas (RA) a companion, has said that the eternally blessed Prophet said that &quot;When my name is mentioned before anyone it is incumbent upon him to, send darud on me, and whosoever sends darud once, Allah sends His Mercy on him ten times (ibid.) The best Darud is that which we read in our Salah and the shortest is to say &quot;Salallahu Alaihi Wasallim&quot;"
+            android:id="@+id/textView51"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:textColor="#ff000000"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text="  34. Seeking forgiveness as much as possible everyday Prophet Muhammad (Peace be upon him) was free of all sin, but even then he has said that &quot;I beg for Allah&apos;s forgiveness seventy times or more every day&quot; (Bukhari) The Prophet (Peace be upon him) said: &quot;Whosoever regularly seeks Allah&apos;s pardon, Allah makes for him a way out of all tight corners, removes all his worries and grants him sustenance from sources he had never imagined.&quot; (Abu Damd, Kitab-al-Satat, Bab-al-Istighfar)."
+            android:id="@+id/textView52"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:textColor="#ffff5e3c"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="  35. Planting Trees is like giving Sadaqa and a means of great Reward] Planting plants and trees in appropriate places is an act of great merit Anas (RA) has quoted Rasulallah (Peace be upon him): &quot;A man plants a tree or sows a field and a man or bird eats from it, the tree or field becomes a source of sadaqah for him.&quot; (Bukhari and Muslim)"
+            android:id="@+id/textView53"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:textColor="#ff000000"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text="  36. Teach others beneficial Islamic things and have mercy of Allah and all creatures Abu Umama has quoted the following words of our Prophet (Peace be upon him) “Allah the Most High and His Angels and all creatures of the Heavens and earth even the ants inside their ant-holes shower mercy one those who teach things of benefit to others.” (Jame-Tirmidhi)"
+            android:id="@+id/textView54"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:textColor="#ffff5e3c"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="  37. Greet your Muslim brother whether you know them or not Our holy Prophet (Peace be upon him), was asked as to which actions are good for Muslims. Among the actions which he enumerated was this: &quot;You should greet people whether you know them or not.&quot; It is reported about Abdullah bin Omar that sometimes he went out of the house only to greet any Muslims he met and thus to increase his merit. (Muvatta Imam Malik)"
+            android:id="@+id/textView55"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:textColor="#ff000000"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text="    37.1 When entering ones house greet with salaam even when entering empty house Our holy Prophet (Peace be upon him) instructed his personal servant Anas as follows, “Oh son! When you enter (your) house, greet your family members; this act shall be of benefit for both you and your family members.&quot; (Tirmidhi) Even when entering an empty house one should greet with the intent that angels are being greeted."
+            android:id="@+id/textView56"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:textColor="#ffff5e3c"/>
+            <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="    37.2 Reward for giving FULL salaam is 30 good deeds Imran bin Husayn(RA) recounts that once he and others were in the presence of the Prophet (Peace be upon him) when a man came and said, &quot;Assalamu alaikum&quot;, to which the blessed Prophet (Peace be upon him) responded and said, &quot;Ten&quot; (i.e. the person who had greeted him had earned ten merits); then another man came and he &quot;Assalamu alaikum wa Rahmatullah&quot;, to which the Prophet (Peace be upon him) responded and said &quot;Twenty&quot; (i.e. the person had earned twenty merits). Finally a third man came and said &quot;Assalamu alaikum wa Rahmatullah wa Barakatu&quot;, to which the exalted Prophet (Peace be upon him) responded and said, &quot;Thirty&quot; (i.e. the person had earned thirty merits) (Abu Daud, Tirmidhi, Jami al Usul, p. 602. vol 6)"
+                android:id="@+id/textView57"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true"
+                android:textColor="#ff000000"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text="  38. Love for the sake of Allah and be under his shade One hadith says, “Allah shall ask on the Day of Judgement, &apos; Where are those who loved for the sake of my Greatness? Today when there is no shade save Mine, I shall have them in My Shade.&apos;&quot; (Sahih Muslim: Kitab al Birr wa al Silah) Another tells us that &quot;On the Day of Judgement, those who had mutual love for the sake of Allah&apos;s Greatness shall be on pulpits of light and all shall envy them.&quot; (Jami&apos; Tirmidhi, Kitab al Zuhd)"
+            android:id="@+id/textView58"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:textColor="#ffff5e3c"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="  39. We will be with those whom we love even the Prophet (Peace be upon him) Anas (RA) Quotes that someone asked our blessed and exalted Prophet,&quot;When shall come the Day of Judgement?&quot; Our Prophet asked him &quot;What preparation have you made for the Day?&quot; The man said, &quot;Nothing, but I have love for Allah and for His Messenger.&quot; The Prophet said, &quot;You shall be (on that Day) with whom you love.&quot; Anas (RA) says that these words of the Holy Prophet (Peace be upon him) so pleased us as nothing had ever done. He further said, &quot;I have great love for the Holy Prophet (Peace be upon him) and with Abu Bakr (RA) and Umar(RA), may Allah be pleased with them, and because of this love, I shall be in their company, even though my deeds are not equal to theirs.&quot; (Sahih Bukhari, kitab-al-Adab, chapter Alamah al Hubb fi Allah)."
+            android:id="@+id/textView59"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:textColor="#ff000000"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text="  40. Magnify ones intention and get even MORE reward doing good deeds! Allah&apos;s Messenger (peace be upon him) said: &quot;Deeds (their correctness and rewards) depend upon intentions, and every person gets but what he has intended.&quot; (Agreed upon) Ibn Al-Mubarak said: &quot;May a small deed be magnified by the sincere intention; and may a great deed be diminished by the insincere intention&quot; If we do not correct our intention before doing a good act or deed then we will not get rewarded our deeds even if it is a great one, while we can magnify our humble deeds by a sincere intention."
+        android:id="@+id/textView60"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+            android:textColor="#ffff5e3c"/>
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="More Deeds"
+            android:id="@+id/button13"
+            android:layout_alignParentBottom="true"
+            android:layout_centerHorizontal="true" />
+</LinearLayout>
+    </ScrollView>
+</RelativeLayout>

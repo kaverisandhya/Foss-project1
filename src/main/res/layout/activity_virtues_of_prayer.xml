@@ -1,0 +1,115 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent" android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    tools:context="contactmanager.al_quddusislamicapp.Virtues_of_prayer"
+    android:background="@color/background_floating_material_dark">
+    <ScrollView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/scrollView">
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="           1.Abu Hurayra said, “I heard the Messenger of Allah, may Allah bless him and grant him peace, say, ‘What do you think would happen if there was a river by someone’s door in which he washed five times every day? Do you think that any dirt would remain on him?’ They said, ‘Not a scrap of dirt would remain on him.’ He said, ‘That is a metaphor of the five prayers by which Allah wipes out wrong actions.&apos;”"
+        android:id="@+id/textView61"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:textColor="#ffffffff" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text="
+             2.Abu Hurayra reported that the Messenger of Allah, may Allah bless him and grant him peace, said, “The five prayers, and Jumu’a to Jumu’a is expiation for what is between them as long as a man has committed no major sins.” [Muslim]
+             "
+            android:id="@+id/textView62"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:textColor="#ffffffff" />
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="     On the Subh and ‘Asr prayers"
+            android:id="@+id/textView63"
+            android:layout_below="@+id/scrollView"
+            android:layout_centerHorizontal="true"
+            android:background="#ffabffbe" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text="
+            3.Abu Zuhayr ‘Umara ibn Ruwayba said, “I heard the Messenger of Allah, may Allah bless him and grant him peace, say, ‘No one who used to pray before the rising of the sun and before its setting will enter the Fire,” meaning Fajr and ‘Asr.” [Muslim]"
+            android:id="@+id/textView64"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:textColor="#ffffffff"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text="
+            4.Burayda reported that the Messenger of Allah, may Allah bless him and grant him peace, said, “If anyone misses the prayer of ‘Asr , his actions will come to nothing.”[al-Bukhari]
+            "
+            android:id="@+id/textView65"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:textColor="#ffffffff"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="On the excellence of walking to the masjid"
+            android:id="@+id/textView66"
+            android:layout_below="@+id/scrollView"
+            android:layout_centerHorizontal="true"
+            android:background="#ffabffbe"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text="
+            5.Abu Hurayra reported that the Prophet, may Allah bless him and grant him peace, said, “Anyone who purifies himself in his house and then goes to one of the houses of Allah to fulfil one of the obligations of Allah, one step removes an error and the other raises him a degree.” [Muslim]"
+            android:id="@+id/textView67"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:textColor="#ffffffff"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text="
+            6.Burayda reported that the Prophet, may Allah bless him and grant him peace, said, “Give good news to those who walk to mosques in the dark that they will have full light on the Day of Rising.” [Abu Dawud and at-Tirmidhi]"
+            android:id="@+id/textView68"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:textColor="#ffffffff"/>
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="More Virtues"
+            android:id="@+id/button15"
+            android:layout_alignParentBottom="true"
+            android:layout_centerHorizontal="true" />
+
+    </LinearLayout>
+    </ScrollView>
+</RelativeLayout>
