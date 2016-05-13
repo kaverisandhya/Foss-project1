@@ -73,8 +73,8 @@ public final class R {
 		public static final int colorSwitchThumbNormal = 0x7f010099;
 		public static final int commitIcon = 0x7f010039;
 		public static final int contentInsetEnd = 0x7f010017;
-		public static final int contentInsetLeft = 0x7f010018;
-		public static final int contentInsetRight = 0x7f010019;
+		public static final int contentInsetright = 0x7f010018;
+		public static final int contentInsetleft = 0x7f010019;
 		public static final int contentInsetStart = 0x7f010016;
 		public static final int customNavigationLayout = 0x7f01000f;
 		public static final int disableChildrenWhenDisabled = 0x7f010040;
